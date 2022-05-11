@@ -35,7 +35,7 @@ p, a {font-weight: 400;}
   width: 150px;
   display:block;
   position: absolute;
-  border-bottom:  5px solid #6266ea;
+  border-bottom:  5px solid #010103;
   padding-top: .5em;
 }
 .typo-space-line-center::after {
@@ -46,7 +46,7 @@ p, a {font-weight: 400;}
 #main_nav .nav-item .nav-link:hover {color: #fff;}
 /* Home */
 #index_banner {
-  background-image: url('./../img/banner-bg-01.jpg');
+  background-image: url(https://images.pexels.com/photos/4087610/pexels-photo-4087610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
   background-position: center center; background-size: cover;
   height: 100%;
   min-height: 60vh;
@@ -57,7 +57,7 @@ p, a {font-weight: 400;}
 }
 #index_banner .carousel-control-prev i,
 #index_banner .carousel-control-next i {
-  color: #6266ea !important;
+  color: #020206 !important;
   text-decoration: none;
   font-size: 4em;
 }
@@ -66,8 +66,8 @@ p, a {font-weight: 400;}
 }
 #index_banner .carousel-indicators li,
 #index_banner .carousel-indicators.active {
-  background-color: #6266ea !important;
-  // las rayas de abajo del carrousel van de color azul
+  background-color: #020204 !important;
+  /* // las rayas de abajo del carrousel van de color azul */
 }
 .service-wrapper .service-footer {
   max-width: 720px;
@@ -155,7 +155,7 @@ p, a {font-weight: 400;}
 /* Work */
 /* Singel Work */
 #work_single_banner {
-  background-image: url('./../img/banner-bg-02.jpg');
+  background-image: url('https://images.pexels.com/photos/4087611/pexels-photo-4087611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
   background-position: center center;
   background-size: cover;
   height: 100%;
