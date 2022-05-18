@@ -4068,8 +4068,8 @@ fieldset:disabled .btn {
 
 /* line 65, src/assets/scss/_buttons.scss */
 .btn-outline-primary {
-  color: #4232c2;
-  border-color: #4232c2;
+  color: #57cc99;
+  border-color: #57cc99;
 }
 
 /* line 85, src/assets/scss/mixins/_buttons.scss */
@@ -9595,7 +9595,7 @@ fieldset:disabled .btn {
 
 /* line 50, src/assets/scss/mixins/_utilities.scss */
 .bg-secondary {
-  background-color: #6266ea !important;
+  background-color: #555b6e;
 }
 
 /* line 50, src/assets/scss/mixins/_utilities.scss */

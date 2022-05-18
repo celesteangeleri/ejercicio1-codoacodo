@@ -97,7 +97,7 @@ p, a {font-weight: 400;}
 }
 .recent-work .recent-work-vertical {
 	background: rgb(255,255,255);
-  background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 33.333%, rgba(97,84,199,1) 66.666%, rgba(255,255,255,0) 99.999%);
+  background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 33.333%, rgb(202, 168, 186) 66.666%, rgba(255,255,255,0) 99.999%);
   background-size: 300% 300%;
   background-position: 0% 100%;
   transition: .5s;
@@ -185,4 +185,37 @@ p, a {font-weight: 400;}
 footer a.text-light:hover {
   color: #bfbfbf !important;
   transition-duration: 0.15s;
+}
+.backFooter{
+  background-color: #4a4e69;
+}
+.copyFooter{
+  background-color: #22223b;
+}
+.midPage{
+  background-color: #9a8c98;
+}
+.toolBarTwo{
+  background-color: #c9ada7;
+}
+.botones{
+  background-color: #c9ada7;
+}
+.botones:hover{
+  background-color: #9a8c98;
+}
+.botones:active{
+  background-color: #9a8c98;
+}
+.boton2{
+  background-color: #c9ada7;  
+}
+.logo{
+  color: #fb6f92 ;
+}
+.botonesNav{
+  background-color: white;
+}
+.botonesNav:hover{
+  background-color: #c9ada7;
 }
